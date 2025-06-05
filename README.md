@@ -1,5 +1,5 @@
 **Sentiment Classifier**
-
+Submission for A Sentiment Classification Challenge
 This project implements an *aspect‑based* sentiment classifier using **FacebookAI/roberta-large**.  
 Given a sentence and a target aspect, it predicts the sentiment polarity (**positive, neutral, or negative**) expressed toward that aspect.
 
